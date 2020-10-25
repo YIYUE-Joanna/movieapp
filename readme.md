@@ -1,7 +1,7 @@
 # movie Application
 
 ## Description
-To run this app, you can simply run wsgi.py
+To run this app, you can simply run wsgi.py You can register a new account and log in your account.
 A movie web application that demonstrates use of Python's Flask framework. 
 People can browse movies and search for movies by using this website.
 ## Installation
